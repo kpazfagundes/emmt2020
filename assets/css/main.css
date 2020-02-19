@@ -3349,7 +3349,6 @@
 			margin: 0;
 			padding: 0;
 			position: absolute;
-			top: 0;
 		}
 
 			#header .logo a {
@@ -4428,4 +4427,11 @@
 				padding: 3em 0 1em 0;
 			}
 
+		}
+		.gif{
+			position: fixed;
+   			top: 60%;
+   			z-index: 100;
+			   left: 0pt;
+			   right: 80%;
 		}
